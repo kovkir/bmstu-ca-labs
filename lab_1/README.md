@@ -11,8 +11,8 @@
 
 # Пример работы программы
 
-![](https://github.com/kovkir/bmstu-ca-labs/raw/master/lab_1/example.png)
+![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_1/example.png)
 
 # Результаты работы программы при данных значениях
 
-![](https://github.com/kovkir/bmstu-ca-labs/raw/master/lab_1/result.png)
+![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_1/result.png)

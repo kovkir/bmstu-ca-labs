@@ -10,10 +10,10 @@
 
 # Пример работы программы
 
-![](https://github.com/kovkir/bmstu-ca-labs/raw/master/lab_2/example1.png)
+![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_2/example1.png)
 
-![](https://github.com/kovkir/bmstu-ca-labs/raw/master/lab_2/example2.png)
+![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_2/example2.png)
 
 # Результаты работы программы при данных значениях
 
-![](https://github.com/kovkir/bmstu-ca-labs/raw/master/lab_2/result.png)
+![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_2/result.png)
