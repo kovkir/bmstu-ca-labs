@@ -1,4 +1,3 @@
-
 EPS = 1e-6
 
 def read_file(name_file):
@@ -138,5 +137,5 @@ def main():
     print("\nHermit_p = %.6f" %(hp))
     print("\nRoot = %.6f\n" %(root))
 
-main()
-
+if __name__ == "__main__":
+    main()
