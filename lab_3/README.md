@@ -11,12 +11,12 @@
 # Результат работы программы
 
 1. Значения y(x);
-2. Сравнить результаты интерполяции кубическим сплайном и полиномом Ньютона 3-ей
+2. Сравнить результаты интерполяции кубическим сплайном и полиномом Ньютона 3-ей.
 
 # Пример работы программы
 
-![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_3/example/example.png)
+![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_3/examples/example.png)
 
 # Результаты работы программы при данных значениях
 
-![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_3/example/result.png)
+![](https://github.com/kovkir/bmstu-ca-labs/raw/main/lab_3/examples/result.png)
