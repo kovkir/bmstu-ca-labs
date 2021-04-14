@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 from copy import deepcopy
 
 from color import set_color, base_color, red, purple
+from table import SIZE_TABLE
 
 EPS = 0.01
 
@@ -108,6 +109,11 @@ def solve_task(table):
         n = int(input("\n%s%sВведите степень аппроксимирующего полинома: %s%s"
             %(set_color, purple, set_color, base_color)))
     except:
+        print("\n%s%sОшибка: некорректно введенна степень полинома!%s%s"
+            %(set_color, red, set_color, base_color))
+        return table
+
+    if n >= SIZE_TABLE or n <= 0:
         print("\n%s%sОшибка: некорректно введенна степень полинома!%s%s"
             %(set_color, red, set_color, base_color))
         return table
